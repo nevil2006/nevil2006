@@ -39,23 +39,39 @@ I focus on:
 
 ---
 
-###  Featured Projects
+###  Selected Projects
 
-#### 1. Real-Time Traffic Detection on Embedded Devices
-**Role:** Developer  
-**Tech:** YOLOv5, ESP32-CAM, Edge Deployment  
-Built a fully working object detection system deployed on ESP32-CAM modules to monitor real-time traffic.  
->  This project was reviewed and **approved by the Commissioner of Police, Coimbatore**.
+#### 1. Smart Traffic Surveillance System (Govt. Approved)
+**Tech Stack:** YOLOv5, OpenCV, Python, ESP32-CAM  
+**Overview:**  
+Designed and deployed a real-time vehicle detection system using embedded hardware (ESP32-CAM) and YOLOv5 for smart city traffic management. The system detects and tracks live traffic flow at intersections and was aimed at congestion control and incident detection.  
+**Outcome:**  
+Approved by the **Commissioner of Police, Coimbatore** for its potential to enhance city-wide traffic monitoring.  
+**Role:**  
+Led the entire pipeline—model training, hardware deployment, and testing under real-world conditions.
 
-#### 2. Breast Cancer Subtype Detection using Vision-Language Models
-**Role:** Research Intern @ CMLI  
-**Tech:** OpenAI’s CLIP, Zero-shot learning, Prompt Engineering  
-Used CLIP to classify histopathology images by subtype with natural language prompts for medical decision support.
+---
 
-#### 3. ML Research Paper Analyzer (NLP Automation)
-**Role:** Intern @ hizen.ai  
-**Tech:** BERT, Topic Modeling, NLTK  
-Automated key insights extraction from academic papers, converting dense ML research into readable summaries.
+#### 2. Eco-Friendly IoT System  
+**Tech Stack:** Arduino, Sensors, Embedded C, Environmental Monitoring Tools  
+**Overview:**  
+Built a low-power IoT device capable of monitoring air quality and water usage in urban residential settings. Focused on minimizing environmental footprint through sensor-driven automation.  
+**Outcome:**  
+Demonstrated strong potential for sustainable living as part of an urban eco-innovation challenge.  
+**Role:**  
+Developed hardware logic, interfaced sensors, and calibrated outputs with energy efficiency in focus.
+
+---
+
+#### 3. Breast Cancer Subtype Classification using CLIP  
+**Tech Stack:** CLIP (OpenAI), PyTorch, Prompt Engineering, Vision-Language Models  
+**Overview:**  
+Explored the use of Vision-Language Models (VLMs) like CLIP to classify breast cancer subtypes from histopathology images using natural language prompts and zero-shot learning techniques.  
+**Outcome:**  
+Achieved explainable classification behavior with improved interpretability for medical practitioners. Conducted as part of a research internship under the Centre for Machine Learning & Intelligence (CMLI).  
+**Role:**  
+Performed prompt engineering, model fine-tuning, and evaluation using metrics like F1-score and confusion matrix.
+
 
 ---
 ###  Internships That Built Me
