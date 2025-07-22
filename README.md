@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nevilj"><img src="https://img.shields.io/badge/LinkedIn-nevilj-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:nevilj22@gmail.com"><img src="https://img.shields.io/badge/Email-nevilj22@gmail.com-red?style=flat&logo=gmail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat](https://github.com/nevil2006" />
 </p>
 
 ---
@@ -25,16 +25,29 @@ I focus on:
 ### 🛠 Skills & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv5-8A2BE2?style=flat"/>
-  <img src="https://img.shields.io/badge/CLIP-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/BERT-yellow?style=flat"/>
-  <img src="https://img.shields.io/badge/ESP32--CAM-003B71?style=flat"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+## 🛠 Skills & Technologies
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![CLIP](https://img.shields.io/badge/CLIP-VLM-informational?style=for-the-badge)
+
+### Environments
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </p>
 
 ---
