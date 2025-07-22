@@ -1,109 +1,102 @@
-<h1 align="center">Nevil J</h1>
-<h3 align="center">B.Tech AI & Data Science | Computer Vision Intern | Applied ML Enthusiast</h3>
+<h1 align="center">J. Nevil</h1>
+<h3 align="center">AI & Data Science | Computer Vision + ML Intern | Building for Real-World Impact</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nevilj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-nevilj-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:nevilj22@gmail.com"><img src="https://img.shields.io/badge/Email-nevilj22@gmail.com-grey?logo=gmail&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/nevilj"><img src="https://img.shields.io/badge/LinkedIn-nevilj-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:nevilj22@gmail.com"><img src="https://img.shields.io/badge/Email-nevilj22@gmail.com-red?style=flat&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### About Me
+###  About Me
 
-I’m a B.Tech student in Artificial Intelligence and Data Science at KGiSL Institute of Technology. My work bridges intelligent systems and impactful design—combining computer vision, machine learning, and edge deployment with frontend development. I focus on applied AI problems, particularly in domains like healthcare, traffic systems, and document intelligence.
+I'm currently pursuing my B.Tech in **Artificial Intelligence & Data Science** at KGiSL Institute of Technology.  
+What sets my journey apart is not just academic performance—but building **deployed AI systems** that solve real-world challenges in **traffic, healthcare, and research automation**.
+
+I focus on:
+- **Vision-Language Models** for medical image interpretation  
+- **Real-time computer vision systems** on embedded devices  
+- **Document intelligence** using BERT & NLP  
+- **Bridging backend AI with responsive front-end designs**
 
 ---
 
-### Technical Proficiency
+### 🛠 Skills & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/YOLOv5-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/CLIP-0A0A0A?style=flat-square" />
-  <img src="https://img.shields.io/badge/BERT-FFD43B?style=flat-square" />
-  <img src="https://img.shields.io/badge/ESP32--CAM-003B71?style=flat-square" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv5-8A2BE2?style=flat"/>
+  <img src="https://img.shields.io/badge/CLIP-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/BERT-yellow?style=flat"/>
+  <img src="https://img.shields.io/badge/ESP32--CAM-003B71?style=flat"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
 </p>
 
 ---
 
-### Projects & Applications
+###  Featured Projects
 
-#### Smart Traffic Management System
-Built a real-time object detection system using YOLOv5 on ESP32-CAM modules to monitor and analyze vehicle movement. This project was approved by the Coimbatore City Police and targeted smart traffic flow regulation using edge computing.
+#### 1. Real-Time Traffic Detection on Embedded Devices
+**Role:** Developer  
+**Tech:** YOLOv5, ESP32-CAM, Edge Deployment  
+Built a fully working object detection system deployed on ESP32-CAM modules to monitor real-time traffic.  
+>  This project was reviewed and **approved by the Commissioner of Police, Coimbatore**.
 
-#### Vision-Language Models for Breast Cancer Classification
-Applied OpenAI’s CLIP model to classify histopathology images by subtype using prompt-based zero-shot learning. The project focused on explainable AI in medical diagnosis and was conducted as part of a research internship.
+#### 2. Breast Cancer Subtype Detection using Vision-Language Models
+**Role:** Research Intern @ CMLI  
+**Tech:** OpenAI’s CLIP, Zero-shot learning, Prompt Engineering  
+Used CLIP to classify histopathology images by subtype with natural language prompts for medical decision support.
 
-#### Research Paper Summarizer with BERT
-Assisted a research group by automating the extraction and summarization of ML concepts from academic papers using transformer-based models. Implemented NLP pipelines for topic modeling and information retrieval.
+#### 3. ML Research Paper Analyzer (NLP Automation)
+**Role:** Intern @ hizen.ai  
+**Tech:** BERT, Topic Modeling, NLTK  
+Automated key insights extraction from academic papers, converting dense ML research into readable summaries.
+
+---
+###  Internships That Built Me
+
+These internships, though short in duration, allowed me to explore multiple domains—from core ML to document automation. I quickly grasped fundamentals and used them as stepping stones to pursue larger, applied projects.
+
+| Organization        | Role                                  | Timeline              |
+|---------------------|----------------------------------------|-----------------------|
+| CMLI (AI Research)  | Vision-Language Intern *(Deep Work)*   | Jun–Jul 2025          |
+| Cognifyz Tech       | ML Intern – Regression & Analytics     | Mar–Apr 2025          |
+| hizen.ai            | NLP Intern – Research Automation       | Dec 2024 – Feb 2025   |
+| SaiKet Systems      | ML Intern – EDA & Random Forests       | Dec 2024 – Jan 2025   |
+| Prodigy InfoTech    | ML Intern – Project-Based Learning     | Dec 2024 – Jan 2025   |
+
+> *Note: Some internships were short and task-specific, allowing me to rapidly prototype solutions and build foundational knowledge before tackling more demanding projects in research and deployment.*
+
+###  Recognition
+
+- **1st Prize** – Project Expo (Smart Surveillance System)  
+- **1st Prize** – Ideathon (Medical AI Solutions)  
+- **AI Project Approved by Commissioner of Police**, Coimbatore  
+- Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London
 
 ---
 
-### Internships & Experience
-
-- **Centre for Machine Learning & Intelligence (CMLI)**  
-  *AI Intern – Vision-Language Models*  
-  Worked with CLIP for medical image classification and multimodal learning.
-
-- **Cognifyz Technologies**  
-  *ML Intern – Regression & Analytics*  
-  Built predictive models with scikit-learn, performed EDA, and deployed regression pipelines.
-
-- **Hizen.ai**  
-  *ML Intern – Research Automation*  
-  Developed NLP-based tools for technical document summarization using BERT.
-
-- **SaiKet Systems**  
-  *ML Intern – EDA & Random Forests*  
-  Created visualization tools and classification models for structured datasets.
-
-- **Prodigy InfoTech**  
-  *ML Intern – Project-Based*  
-  Executed classification projects from data preprocessing to deployment in collaborative teams.
-
----
-
-### Academic Background
-
-- **B.Tech, Artificial Intelligence & Data Science**  
-  *KGiSL Institute of Technology (2023–2027)*
-
-- **Higher Secondary – Chavara Vidya Bhavan**  
-- **SSC – Lisieux Matriculation Higher Secondary School**
-
----
-
-### Recognition
-
-- 1st Prize – Ideathon  
-- 1st Prize – Project Expo  
-- Smart Traffic System approved by Coimbatore Police  
-- Distinction – Grade 1 (Music) and Grade 2 (Music Theory), Trinity College London
-
----
-
-### GitHub Overview
+###  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
 </p>
 
 ---
 
-### Let’s Connect
+### 📬 Connect With Me
 
-If you're working on applied AI in healthcare, smart cities, or vision-language modeling, I'm always open to meaningful collaboration.
+- [LinkedIn](https://www.linkedin.com/in/nevilj)  
+- [Email](mailto:nevilj22@gmail.com)
 
-- LinkedIn: [nevilj](https://www.linkedin.com/in/nevilj)  
-- Email: [nevilj22@gmail.com](mailto:nevilj22@gmail.com)
+---
+
+> *"My mission is simple: Build intelligent systems that don’t just predict but **deliver value at the edge, in the clinic, and in the real world**."*
+
