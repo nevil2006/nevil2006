@@ -59,37 +59,45 @@ I focus on:
 ---
 
 ###  Selected Projects
+## Projects
 
-#### 1. Smart Traffic Surveillance System (Govt. Approved)
-**Tech Stack:** YOLOv5, OpenCV, Python, ESP32-CAM  
-**Overview:**  
-Designed and deployed a real-time vehicle detection system using embedded hardware (ESP32-CAM) and YOLOv5 for smart city traffic management. The system detects and tracks live traffic flow at intersections and was aimed at congestion control and incident detection.  
-**Outcome:**  
-Approved by the **Commissioner of Police, Coimbatore** for its potential to enhance city-wide traffic monitoring.  
-**Role:**  
-Led the entire pipeline—model training, hardware deployment, and testing under real-world conditions.
+### PathoVision: AI-Driven Breast Lesion Classification using CLIP and RN50  
+**Duration:** June 2025 – July 2025  
+**Organization:** Centre for Machine Learning and Intelligence (CMLI)  
 
----
+PathoVision is an AI-powered framework that uses OpenAI’s CLIP model with ResNet-50 (RN50) to classify breast lesions into benign or malignant categories, including 8 subtypes. The system leverages natural language prompts for classification, enabling zero-shot and few-shot inference.
 
-#### 2. Eco-Friendly IoT System  
-**Tech Stack:** Arduino, Sensors, Embedded C, Environmental Monitoring Tools  
-**Overview:**  
-Built a low-power IoT device capable of monitoring air quality and water usage in urban residential settings. Focused on minimizing environmental footprint through sensor-driven automation.  
-**Outcome:**  
-Demonstrated strong potential for sustainable living as part of an urban eco-innovation challenge.  
-**Role:**  
-Developed hardware logic, interfaced sensors, and calibrated outputs with energy efficiency in focus.
+- Applied prompt engineering techniques to improve classification explainability
+- Fine-tuned CLIP for histopathology image interpretation
+- Evaluated using accuracy, F1-score, and confusion matrix
 
----
+**Technologies:** CLIP, RN50, PyTorch, Vision-Language Models, Data Augmentation, Prompt Engineering
+  
 
-#### 3. Breast Cancer Subtype Classification using CLIP  
-**Tech Stack:** CLIP (OpenAI), PyTorch, Prompt Engineering, Vision-Language Models  
-**Overview:**  
-Explored the use of Vision-Language Models (VLMs) like CLIP to classify breast cancer subtypes from histopathology images using natural language prompts and zero-shot learning techniques.  
-**Outcome:**  
-Achieved explainable classification behavior with improved interpretability for medical practitioners. Conducted as part of a research internship under the Centre for Machine Learning & Intelligence (CMLI).  
-**Role:**  
-Performed prompt engineering, model fine-tuning, and evaluation using metrics like F1-score and confusion matrix.
+### Eco-Friendly Product Showcase Website  
+**Duration:** May 2025 – June 2025  
+**Organization:** KGiSL Institute of Technology  
+
+Developed a responsive front-end website to promote eco-friendly products. The site includes a product gallery, contact form, and about section with a clean, green-themed UI to align with environmental sustainability goals.
+
+- Built using semantic HTML and responsive Bootstrap layouts
+- Designed for cross-device compatibility and user engagement
+- Demonstrates strong front-end fundamentals
+
+**Technologies:** HTML, CSS, Bootstrap
+
+
+### AI-Based Smart Traffic Management System  
+**Duration:** September 2024 – May 2025  
+**Organization:** KGiSL Institute of Technology  
+
+Designed an AI-based traffic management system using computer vision and IoT to optimize traffic signals and prioritize emergency vehicles. The system utilizes YOLOv11s with ESP32-CAM and radar sensors to detect traffic density and respond in real-time.
+
+- Integrated YOLO-based detection with signal control logic
+- Implemented DeepSORT for vehicle tracking
+- Approved and tested by the Traffic Department, Coimbatore
+
+**Technologies:** YOLOv11s, Python, OpenCV, ESP32-CAM, DeepSORT, Real-time Data Processing
 
 
 ---
