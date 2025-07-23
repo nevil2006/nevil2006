@@ -32,7 +32,7 @@ I focus on:
 
 <p>
 
-### Languages  
+
 
 <p align="center">
 
