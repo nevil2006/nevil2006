@@ -75,7 +75,6 @@ I focus on:
 
 ---
 
-###  Selected Projects
 ## Projects
 
 ### PathoVision: AI-Driven Breast Lesion Classification using CLIP and RN50  
