@@ -46,7 +46,7 @@ I focus on:
 
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLO v-11](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![CLIP](https://img.shields.io/badge/CLIP-VLM-informational?style=for-the-badge)
 
 ### Environments
