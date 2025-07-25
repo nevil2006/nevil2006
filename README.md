@@ -39,6 +39,7 @@ I focus on:
 </p>
 
 ---
+
 <div align="center">
   <h2>🧠 Core Technologies & Tools</h2>
 
@@ -46,6 +47,9 @@ I focus on:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
   <h3>🧪 Machine Learning & Data Science</h3>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -60,6 +64,7 @@ I focus on:
   <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=darkreader&logoColor=black" />
   <img src="https://img.shields.io/badge/CLIP-VLM-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge" />
 
   <h3>🧰 Dev Tools & IDEs</h3>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -69,14 +74,15 @@ I focus on:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
   <h3>🚀 Deployment & Cloud</h3>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
   <h3>🎨 UI / UX</h3>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-
 
 ---
 
@@ -106,7 +112,7 @@ I focus on:
 
 - Used OpenAI CLIP + ResNet50 for zero-shot/few-shot lesion classification  
 - Engineered prompts for histopathological image interpretation  
-- Evaluated with accuracy, F1-score, confusion matrix  
+- Evaluated with accuracy, F1-score, and confusion matrix  
 
 **Tech Stack:** CLIP, RN50, PyTorch, Prompt Engineering, Data Augmentation  
 
