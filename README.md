@@ -2,23 +2,25 @@
 <h3 align="center">AI & Data Science | Computer Vision + ML Intern | Building for Real-World Impact</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nevilj">
+  <a href="https://www.linkedin.com/in/nevilj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-nevilj-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:nevilj22@gmail.com">
+  <a href="mailto:nevilj22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-nevilj22@gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://github.com/nevil2006">
+  <a href="https://github.com/nevil2006" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=nevil2006&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-###  About Me
+<h2 align="center">🚀 About Me</h2>
 
-I'm currently pursuing my B.Tech in **Artificial Intelligence & Data Science** at KGiSL Institute of Technology.  
-What sets my journey apart is not just academic performance—but building **deployed AI systems** that solve real-world challenges in **traffic, healthcare, and research automation**.
+<p align="center">
+I'm currently pursuing my B.Tech in <strong>Artificial Intelligence & Data Science</strong> at KGiSL Institute of Technology.<br/>
+My journey revolves around building <strong>deployed AI systems</strong> in traffic, healthcare, and research automation.
+</p>
 
 I focus on:
 - **Vision-Language Models** for medical image interpretation  
@@ -28,98 +30,82 @@ I focus on:
 
 ---
 
-### 🛠 Skills & Technologies
-
-<p>
-
-
-
 <p align="center">
-
-  <!-- Programming Languages -->
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-  <br><br>
-
-  <!-- AI/ML Libraries -->
-  <h3>AI / ML</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-
-  <br><br>
-
-  <!-- Computer Vision -->
-  <h3>Computer Vision</h3>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=darkreader&logoColor=black" alt="YOLOv11"/>
-  <img src="https://img.shields.io/badge/CLIP-VLM-informational?style=for-the-badge" alt="CLIP"/>
-
-  <br><br>
-
-  <!-- Development Environments -->
-  <h3>Environments</h3>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-
+🔍 <strong>Focus Areas:</strong><br/>
+• Vision-Language Models for medical imaging<br/>
+• Real-time Computer Vision with embedded systems<br/>
+• Document Intelligence using BERT and NLP<br/>
+• Bridging AI models with responsive Front-End interfaces
 </p>
 
 ---
 
-## Projects
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
-### PathoVision: AI-Driven Breast Lesion Classification using CLIP and RN50  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🛠 Tools & Environments
+
+- 💻 **VS Code** – Daily development and debugging  
+- 🧪 **Google Colab** – Cloud-based training and model experimentation  
+- 📒 **Jupyter Notebook** – Data visualization and research workflows  
+- 🌐 **GitHub** – Version control & open-source contributions  
+- ☁️ **Firebase**, **Replit**, **Streamlit** – For quick hosting & ML deployment  
+
+---
+
+<h2 align="center">📁 Projects</h2>
+
+### 🚦 AI-Based Smart Traffic Management  
+**Duration:** Sep 2024 – May 2025  
+**Tech:** YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
+→ Smart signal control with real-time detection & tracking.  
+✅ *Approved by the Commissioner of Police, Coimbatore District*
+
+---
+
+### 🧠 PathoVision: AI-Driven Breast Lesion Classification using CLIP and RN50  
 **Duration:** June 2025 – July 2025  
 **Organization:** Centre for Machine Learning and Intelligence (CMLI)  
 
-PathoVision is an AI-powered framework that uses OpenAI’s CLIP model with ResNet-50 (RN50) to classify breast lesions into benign or malignant categories, including 8 subtypes. The system leverages natural language prompts for classification, enabling zero-shot and few-shot inference.
+- Used OpenAI CLIP + ResNet50 for zero-shot/few-shot lesion classification  
+- Engineered prompts for histopathological image interpretation  
+- Evaluated with accuracy, F1-score, confusion matrix  
 
-- Applied prompt engineering techniques to improve classification explainability
-- Fine-tuned CLIP for histopathology image interpretation
-- Evaluated using accuracy, F1-score, and confusion matrix
+**Tech Stack:** CLIP, RN50, PyTorch, Prompt Engineering, Data Augmentation  
 
-**Technologies:** CLIP, RN50, PyTorch, Vision-Language Models, Data Augmentation, Prompt Engineering
-  
+---
 
-### Eco-Friendly Product Showcase Website  
+### 🌱 Eco-Friendly Product Showcase Website  
 **Duration:** May 2025 – June 2025  
 **Organization:** KGiSL Institute of Technology  
 
-Developed a responsive front-end website to promote eco-friendly products. The site includes a product gallery, contact form, and about section with a clean, green-themed UI to align with environmental sustainability goals.
+- Responsive front-end website to promote sustainable products  
+- Semantic HTML, Bootstrap, and mobile-optimized layouts  
+- Clean green UI for environmental alignment  
 
-- Built using semantic HTML and responsive Bootstrap layouts
-- Designed for cross-device compatibility and user engagement
-- Demonstrates strong front-end fundamentals
-
-**Technologies:** HTML, CSS, Bootstrap
-
-
-### AI-Based Smart Traffic Management System  
-**Duration:** September 2024 – May 2025  
-**Organization:** KGiSL Institute of Technology  
-
-Designed an AI-based traffic management system using computer vision and IoT to optimize traffic signals and prioritize emergency vehicles. The system utilizes YOLOv11s with ESP32-CAM and radar sensors to detect traffic density and respond in real-time.
-
-- Integrated YOLO-based detection with signal control logic
-- Implemented DeepSORT for vehicle tracking
-- Approved and tested by the Traffic Department, Coimbatore
-
-**Technologies:** YOLOv11s, Python, OpenCV, ESP32-CAM, DeepSORT, Real-time Data Processing
-
+**Tech Stack:** HTML, CSS, Bootstrap  
 
 ---
-###  Internships That Built Me
 
-These internships, though short in duration, allowed me to explore multiple domains—from core ML to document automation. I quickly grasped fundamentals and used them as stepping stones to pursue larger, applied projects.
+<h2 align="center">🎓 Internships That Built Me</h2>
 
 | Organization        | Role                                  | Timeline              |
 |---------------------|----------------------------------------|-----------------------|
@@ -129,33 +115,57 @@ These internships, though short in duration, allowed me to explore multiple doma
 | SaiKet Systems      | ML Intern – EDA & Random Forests       | Dec 2024 – Jan 2025   |
 | Prodigy InfoTech    | ML Intern – Project-Based Learning     | Dec 2024 – Jan 2025   |
 
-> *Note: Some internships were short and task-specific, allowing me to rapidly prototype solutions and build foundational knowledge before tackling more demanding projects in research and deployment.*
-
-###  Recognition
-
-- **1st Prize** – Project Expo (Smart Surveillance System)  
-- **1st Prize** – Ideathon (Medical AI Solutions)  
-- **AI Project Approved by Commissioner of Police**, Coimbatore  
-- Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London
+<p align="center"><em>Note: Some internships were short and task-specific, allowing me to rapidly prototype solutions and build foundational knowledge before tackling more demanding projects in research and deployment.</em></p>
 
 ---
 
-###  GitHub Activity
+<h2 align="center">🏆 Recognition</h2>
+
+- 🥇 1st Prize – Project Expo (Smart Surveillance System)  
+- 🥇 1st Prize – Ideathon (Medical AI Solutions)  
+- ✅ AI Project Approved by Commissioner of Police, Coimbatore  
+- 🎼 Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London  
+
+---
+
+<h2 align="center">🎮 Game Project Highlight</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F78C6C&center=true&width=435&lines=🧠+Test+Your+Memory!;🕹️+Interactive+Mini+Game;🚀+Built+with+HTML+%2B+CSS+%2B+JS" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  🎯 <strong>Memory Challenge</strong> – Test how sharp your memory is!  
+  🔗 <a href="https://your-game-url.netlify.app" target="_blank"><strong>▶️ Play Live</strong></a>  
+  📂 <a href="https://github.com/Ajay987654/memory-game" target="_blank"><strong>View Source Code</strong></a>  
+  <br/><br/>
+  🧩 <code>HTML</code> 🎨 <code>CSS</code> ⚙️ <code>JavaScript</code>  
+  <br/><br/>
+  <img src="https://github.com/Ajay987654/memory-game/blob/main/preview.gif?raw=true" width="450px"/>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub & LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nevil2006&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevil2006&theme=radical" width="45%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevil2006&theme=dark&layout=compact" width="40%" />
+  <img src="https://leetcard.jacoblin.cool/nevilj?theme=dark&font=Kanit" width="50%" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+<h2 align="center">📬 Connect With Me</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/nevilj)  
-- [Email](mailto:nevilj22@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nevilj" target="_blank">LinkedIn</a> • 
+  <a href="mailto:nevilj22@gmail.com">Email</a> • 
+  <a href="https://github.com/nevil2006">GitHub</a>
+</p>
 
 ---
 
-> *"My mission is simple: Build intelligent systems that don’t just predict but **deliver value at the edge, in the clinic, and in the real world**."*
-
+<p align="center"><em>"My mission is simple: Build intelligent systems that don’t just predict but <strong>deliver value at the edge, in the clinic, and in the real world</strong>."</em></p>
