@@ -1,3 +1,5 @@
+<div align="center">
+
 # J. Nevil
 
 ### AI & Data Science | Computer Vision + ML Intern | Building for Real-World Impact
@@ -6,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-nevilj22@gmail.com-red?style=flat&logo=gmail)](mailto:nevilj22@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=nevil2006&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nevil2006)
 
----
+</div>
 
 ## 🚀 About Me
 
