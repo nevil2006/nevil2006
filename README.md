@@ -39,25 +39,44 @@ I focus on:
 </p>
 
 ---
+<div align="center">
+  <h2>🧠 Core Technologies & Tools</h2>
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
-
-<p align="center">
+  <h3>👨‍💻 Programming & Scripting</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br /><br />
+
+  <h3>🧪 Machine Learning & Data Science</h3>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <h3>🧠 Vision & Language (CV + NLP)</h3>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=darkreader&logoColor=black" />
+  <img src="https://img.shields.io/badge/CLIP-VLM-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge" />
+
+  <h3>🧰 Dev Tools & IDEs</h3>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
+  <h3>🚀 Deployment & Cloud</h3>
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <h3>🎨 UI / UX</h3>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
 
 ---
 
@@ -125,24 +144,6 @@ I focus on:
 - 🥇 1st Prize – Ideathon (Medical AI Solutions)  
 - ✅ AI Project Approved by Commissioner of Police, Coimbatore  
 - 🎼 Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London  
-
----
-
-<h2 align="center">🎮 Game Project Highlight</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F78C6C&center=true&width=435&lines=🧠+Test+Your+Memory!;🕹️+Interactive+Mini+Game;🚀+Built+with+HTML+%2B+CSS+%2B+JS" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  🎯 <strong>Memory Challenge</strong> – Test how sharp your memory is!  
-  🔗 <a href="https://your-game-url.netlify.app" target="_blank"><strong>▶️ Play Live</strong></a>  
-  📂 <a href="https://github.com/Ajay987654/memory-game" target="_blank"><strong>View Source Code</strong></a>  
-  <br/><br/>
-  🧩 <code>HTML</code> 🎨 <code>CSS</code> ⚙️ <code>JavaScript</code>  
-  <br/><br/>
-  <img src="https://github.com/Ajay987654/memory-game/blob/main/preview.gif?raw=true" width="450px"/>
-</div>
 
 ---
 
