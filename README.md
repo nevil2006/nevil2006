@@ -10,7 +10,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm currently pursuing my **B.Tech in Artificial Intelligence & Data Science** at KGiSL Institute of Technology (2023–2027).
 
@@ -24,15 +24,15 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 ---
 
-## 🧠 Core Technologies & Tools
+##  Core Technologies & Tools
 
-### 👨‍💻 Programming & Scripting
+###  Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧪 Machine Learning & Data Science
+###  Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -40,46 +40,46 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 Vision & Language (CV + NLP)
+###  Vision & Language (CV + NLP)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=darkreader&logoColor=black)
 ![CLIP](https://img.shields.io/badge/CLIP-VLM-informational?style=for-the-badge)
 
-### 🧰 Dev Tools & IDEs
+###  Dev Tools & IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### ☁️ Deployment & Cloud
+###  Deployment & Cloud
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
 
-## 🛠 Tools & Environments
+## Tools & Environments
 
-- 💻 **VS Code** – Daily development and debugging  
-- 🧪 **Google Colab** – Cloud-based training and model experimentation  
-- 📒 **Jupyter Notebook** – Data visualization and research workflows  
-- 🌐 **GitHub** – Version control & open-source contributions  
-- ☁️ **Firebase**, **Replit**, **Streamlit** – For quick hosting & ML deployment  
+-  **VS Code** – Daily development and debugging  
+-  **Google Colab** – Cloud-based training and model experimentation  
+-  **Jupyter Notebook** – Data visualization and research workflows  
+-  **GitHub** – Version control & open-source contributions  
+-  **Firebase**, **Replit**, **Streamlit** – For quick hosting & ML deployment  
 
 ---
 
-## 📁 Projects
+##  Projects
 
-### 🚦 AI-Based Smart Traffic Management  
+###  AI-Based Smart Traffic Management  
 **Duration:** Sep 2024 – May 2025  
 **Tech:** YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
 → Smart signal control with real-time detection & tracking.  
-✅ *Approved by the Commissioner of Police, Coimbatore District*
+*Approved by the Commissioner of Police, Coimbatore District*
 
 ---
 
-### 🧠 PathoVision: AI-Driven Breast Lesion Classification using CLIP and RN50  
+###  PathoVision: AI-Driven Breast Lesion Classification using CLIP and RN50  
 **Duration:** June 2025 – July 2025  
 **Organization:** Centre for Machine Learning and Intelligence (CMLI)  
 
@@ -91,7 +91,7 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 ---
 
-### 🌱 Eco-Friendly Product Showcase Website  
+###  Eco-Friendly Product Showcase Website  
 **Duration:** May 2025 – June 2025  
 **Organization:** KGiSL Institute of Technology  
 
@@ -103,7 +103,7 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 ---
 
-## 🎓 Internships That Built Me
+##  Internships That Built Me
 
 | Organization        | Role                                  | Timeline              |
 |---------------------|----------------------------------------|-----------------------|
@@ -117,16 +117,16 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 ---
 
-## 🏆 Recognition
+##  Recognition
 
-- 🥇 1st Prize – Project Expo (Smart Surveillance System)  
-- 🥇 1st Prize – Ideathon (Medical AI Solutions)  
-- ✅ AI Project Approved by Commissioner of Police, Coimbatore  
-- 🎼 Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London  
+-  1st Prize – Project Expo (Smart Surveillance System)  
+-  1st Prize – Ideathon (Medical AI Solutions)  
+-  AI Project Approved by Commissioner of Police, Coimbatore  
+-  Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London  
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+##  GitHub & LeetCode Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nevil2006&show_icons=true&theme=radical" width="45%" />
@@ -138,7 +138,7 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/nevilj)  
 - [Email](mailto:nevilj22@gmail.com)  
