@@ -109,7 +109,7 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 |---------------------|----------------------------------------|-----------------------|
 | CMLI (AI Research)  | Vision-Language Intern *(Deep Work)*   | Jun–Jul 2025          |
 | Cognifyz Tech       | ML Intern – Regression & Analytics     | Mar–Apr 2025          |
-| hizen.ai            | ml Intern – Research Automation       | Dec 2024 – Feb 2025   |
+| hizen.ai            | ML Intern – Research Automation       | Dec 2024 – Feb 2025   |
 | SaiKet Systems      | ML Intern – EDA & Random Forests       | Dec 2024 – Jan 2025   |
 | Prodigy InfoTech    | ML Intern – Project-Based Learning     | Dec 2024 – Jan 2025   |
 
