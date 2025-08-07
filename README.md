@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 # J. Nevil
 
@@ -130,7 +130,6 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nevil2006&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevil2006&theme=radical" width="45%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevil2006&theme=dark&layout=compact" width="40%" />
   <img src="https://leetcard.jacoblin.cool/nevilj?theme=dark&font=Kanit" width="50%" />
