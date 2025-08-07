@@ -135,7 +135,6 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevil2006&theme=dark&layout=compact" width="40%" />
   <img src="https://leetcard.jacoblin.cool/nevilj?theme=dark&font=Kanit" width="50%" />
 </p>
-
 ---
 
 ##  Connect With Me
