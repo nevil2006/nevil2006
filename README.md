@@ -103,7 +103,7 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 
 ---
 ### Masking Tool for Document  
-**Duration:** Agust 2025 – Agust  2025  
+**Duration:** Julyt 2025 – Agust  2025  
 **Organization:** KGiSL Institute of Technology  
 
 - A web-based tool for masking sensitive information (SSN, Date of Birth, Name) in ID document images using OCR and computer vision. 
