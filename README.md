@@ -130,7 +130,8 @@ I'm passionate about solving real-world problems in **traffic**, **healthcare**,
 -  1st Prize – Ideathon (Medical AI Solutions)  
 -  AI Project Approved by Commissioner of Police, Coimbatore  
 -  Distinction – Grade 1 & Grade 2 Theory in Music, Trinity College London  
-
+- 10+ college hackathons participated
+- 2+ national level hackathons
 ---
 
 ##  GitHub & LeetCode Stats
