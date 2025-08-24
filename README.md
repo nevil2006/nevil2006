@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - **B.Tech in AI & Data Science** at KGiSL Institute of Technology (2023–2027)
 - Passionate about solving problems in **traffic**, **healthcare**, and **automation** through intelligent AI systems.
@@ -22,7 +22,7 @@
 
 ---
 
-## 💡 Core Skills
+##  Core Skills
 
 - **Vision-Language Models:** Medical image interpretation
 - **Computer Vision:** Real-time systems (YOLO, OpenCV, IoT)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
 **Languages & Frameworks:** Python, HTML, CSS, Bootstrap  
 **ML & Data:** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧑‍🔬 Projects
+##  Projects
 
 ### [AI-Based Smart Traffic Management](https://github.com/nevil2006/traffic-management)
 **Sep 2024 – May 2025** | YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
@@ -66,7 +66,7 @@
 
 ---
 
-## 🏢 Internships
+##  Internships
 
 | Organization        | Role                                  | Timeline              |
 |---------------------|----------------------------------------|-----------------------|
@@ -76,7 +76,7 @@
 
 ---
 
-## 🏅 Recognition
+##  Recognition
 
 - 1st Prize – Project Expo (Smart Surveillance System)
 - 1st Prize – Ideathon (Medical AI Solutions)
@@ -86,7 +86,7 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+##  GitHub & LeetCode Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nevil2006&show_icons=true&theme=radical" width="45%" />
@@ -97,7 +97,7 @@
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/nevilj)
 - [Email](mailto:nevilj22@gmail.com)
