@@ -4,7 +4,7 @@
 
 ### AI & Data Science | Computer Vision + ML Intern | Building for Real-World Impact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nevilj--portfolio.vercel.app-8A2BE2?style=flat&logo=vercel)](https://nevilj-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nevilj--portfolio.vercel.app-8A2BE2?style=flat&logo=vercel)](https://nevil-jportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nevilj-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nevilj)
 [![Email](https://img.shields.io/badge/Email-nevilj22@gmail.com-red?style=flat&logo=gmail)](mailto:nevilj22@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=nevil2006&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nevil2006)
@@ -17,7 +17,7 @@
 
 ## Portfolio
 
-[Check out my portfolio here](https://nevilj-portfolio.vercel.app/)  
+[Check out my portfolio here](https://nevil-jportfolio.vercel.app/)  
 
 ---
 
