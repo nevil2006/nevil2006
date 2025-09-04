@@ -50,23 +50,23 @@
 
 ##  Projects
 
-### [AI-Based Smart Traffic Management](https://github.com/nevil2006/traffic-management)
+### [AI-Based Smart Traffic Management](https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization)
 **Sep 2024 – May 2025** | YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
 - Smart signal control with real-time detection & tracking  
 - **Impact:** Approved by Commissioner of Police, deployed for live traffic monitoring.
 
-### [PathoVision: Breast Lesion Classification](https://github.com/nevil2006/pathovision)
+### [PathoVision: Breast Lesion Classification](https://github.com/nevil2006/Vlm-clip)
 **Jun 2025 – Jul 2025** | CLIP, RN50, PyTorch, Prompt Engineering  
 - Zero-shot/few-shot lesion classification using CLIP + ResNet50  
 - Histopathological image interpretation via engineered prompts  
 - Evaluated with accuracy, F1-score, confusion matrix  
 
-### [Eco-Friendly Product Showcase Website](https://github.com/nevil2006/eco-product-showcase)
+### [Eco-Friendly Product Showcase Website](https://github.com/nevil2006/eco-friendly-website-frontened)
 **May 2025 – Jun 2025** | HTML, CSS, Bootstrap  
 - Responsive website to promote sustainable products  
 - Semantic HTML, mobile-optimized, green UI  
 
-### [Masking Tool for Documents](https://github.com/nevil2006/masking-tool)
+### [Masking Tool for Documents](https://github.com/nevil2006/masking-tool-in-image-)
 **Jul 2025 – Aug 2025** | Python, Flask, OpenCV, OCR  
 - Web app for masking sensitive info in ID document images  
 - Utilizes OCR, regex, and CV for privacy protection  
