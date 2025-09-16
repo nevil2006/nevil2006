@@ -2,7 +2,7 @@
 
 # J. Nevil
 
-### AI & Data Science | Computer Vision + ML Intern | Building for Real-World Impact
+### AI & Data Science | Computer Vision + ML | Building for Real-World Impact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nevilj--portfolio.vercel.app-8A2BE2?style=flat&logo=vercel)](https://nevil-jportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nevilj-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nevilj)
