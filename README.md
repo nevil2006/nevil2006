@@ -55,7 +55,7 @@
 - Smart signal control with real-time detection & tracking  
 - **Impact:** Approved by Commissioner of Police, deployed for live traffic monitoring.
 
-### [PathoVision: Breast Lesion Classification](https://github.com/nevil2006/Vlm-clip)
+### [Breast Cancer Classification (Histopathology Images)](https://github.com/nevil2006/medical-analysis-app)
 **Jun 2025 – Jul 2025** | CLIP, RN50, PyTorch, Prompt Engineering  
 - Zero-shot/few-shot lesion classification using CLIP + ResNet50  
 - Histopathological image interpretation via engineered prompts  
