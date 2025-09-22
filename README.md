@@ -87,7 +87,8 @@
 
 - 1st Prize – Project Expo (Smart Surveillance System)  
 - 1st Prize – Ideathon (Medical AI Solutions)  
-- AI Project Approved by Commissioner of Police, Coimbatore  
+- one has been Project Approved by Commissioner of Police, Coimbatore
+- Two real wolrd projects have done  
 - Distinction – Grade 1 & 2 Theory in Music, Trinity College London  
 - 10+ college hackathons, 2+ national hackathons  
 
