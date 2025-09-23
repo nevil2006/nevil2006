@@ -110,7 +110,7 @@
 - [Portfolio](https://nevilj-portfolio.vercel.app/)  
 - [LinkedIn](https://www.linkedin.com/in/nevilj)  
 - [Email](mailto:nevilj22@gmail.com)  
--[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![NEVIL.J github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/nevil2006)
 ---
 
 > “My mission is simple: Build intelligent systems that don’t just predict but **deliver value at the edge, in the clinic, and in the real world**.”
