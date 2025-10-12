@@ -79,7 +79,6 @@
 |---------------------|----------------------------------------|-----------------------|
 | CMLI (AI Research)  | Vision-Language Intern *(Deep Work)*   | Jun–Jul 2025          |
 | hizen.ai            | ML Intern – Research Automation        | Dec 2024 – Feb 2025   |
-| SaiKet Systems      | ML Intern – EDA & Random Forests       | Dec 2024 – Jan 2025   |
 
 ---
 
