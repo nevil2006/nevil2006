@@ -105,8 +105,6 @@
 ---
 
 ##  Connect With Me
-[![GFG Stats](https://gfg-card.vercel.app/api?username=nevilj22)](https://www.geeksforgeeks.org/profile/nevilj22)
-
 
 - [Portfolio](https://nevilj-portfolio.vercel.app/)  
 - [LinkedIn](https://www.linkedin.com/in/nevilj)  
@@ -114,4 +112,4 @@
 [![NEVIL.J github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/nevil2006)
 ---
 
-> “My mission is simple: Build intelligent systems that don’t just predict but **deliver value at the edge, in the clinic, and in the real world**.”
+> “My mission is simple: Build intelligent systems that don’t just predict but **deliver value at the edge, in the clinic, and in the real world**.” 
