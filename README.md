@@ -105,7 +105,7 @@
 ---
 
 ##  Connect With Me
-[![GFG Problems](https://img.shields.io/badge/GFG-Problems-succes?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nevilj22)
+[![GFG Stats](https://gfg-card.vercel.app/api?username=nevilj22)](https://www.geeksforgeeks.org/profile/nevilj22)
 
 
 - [Portfolio](https://nevilj-portfolio.vercel.app/)  
