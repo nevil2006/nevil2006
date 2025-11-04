@@ -105,6 +105,8 @@
 ---
 
 ##  Connect With Me
+[![GFG Problems](https://img.shields.io/badge/GFG-Problems-succes?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nevilj22)
+
 
 - [Portfolio](https://nevilj-portfolio.vercel.app/)  
 - [LinkedIn](https://www.linkedin.com/in/nevilj)  
