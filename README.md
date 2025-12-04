@@ -91,16 +91,7 @@
 - Distinction – Grade 1 & 2 Theory in Music, Trinity College London  
 - 10+ college hackathons, 2+ national hackathons  
 
----
 
-##  GitHub & LeetCode Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nevil2006&show_icons=true&theme=radical" width="45%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevil2006&theme=dark&layout=compact" width="40%" />
-  <img src="https://leetcard.jacoblin.cool/nevilj?theme=dark&font=Kanit" width="50%" />
-</p>
 
 ---
 
