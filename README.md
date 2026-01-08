@@ -50,10 +50,10 @@
 
 ##  Projects
 
-### [AI-Based Smart Traffic Management](https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization)
+### [AI-Based Traffic Signal Management with Emergency Vehicle Prioritisation](https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization)
 **Sep 2024 – May 2025** | YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
 - Smart signal control with real-time detection & tracking  
-- **Impact:** Approved by Commissioner of Police, deployed for live traffic monitoring.
+- **Impact:** Approved by the Commissioner of Police, deployed for live traffic monitoring.
 
 ### [Breast Cancer Classification (Histopathology Images)](https://github.com/nevil2006/medical-analysis-app)
 **Jun 2025 – Jul 2025** | CLIP, RN50, PyTorch, Prompt Engineering  
