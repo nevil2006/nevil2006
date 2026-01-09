@@ -2,7 +2,7 @@
 
 # J. Nevil
 
-### AI & Data Science | Computer Vision + ML | Building for Real-World Impact
+### AI & Data Science Engineer | Computer Vision & ML | Real-World AI Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nevilj--portfolio.vercel.app-8A2BE2?style=flat&logo=vercel)](https://nevil-jportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nevilj-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nevilj)
@@ -11,30 +11,31 @@
 
 </div>
 
-> Building AI systems for healthcare, traffic, and automation—delivering real-world impact.
+> Building AI systems for healthcare, traffic, and automation — delivering real-world impact.
 
 ---
 
-## Portfolio
-
-[Check out my portfolio here](https://nevil-jportfolio.vercel.app/)  
+##  Portfolio
+🔗 **Live Portfolio:** https://nevil-jportfolio.vercel.app/
 
 ---
 
 ##  About Me
 
 - **B.Tech in AI & Data Science** at KGiSL Institute of Technology (2023–2027)
-- Passionate about solving problems in **traffic**, **healthcare**, and **automation** through intelligent AI systems.
-- Full-stack developer: ML model to interactive web app deployment. 
+- AI Engineer focused on **Computer Vision, Vision-Language Models, and ML systems**
+- Experience building **end-to-end AI products** (model → backend → web deployment)
+- Worked on **government-approved and real-world deployed AI systems**
 
 ---
 
 ##  Core Skills
 
-- **Vision-Language Models:** Medical image interpretation  
-- **Computer Vision:** Real-time systems (YOLO, OpenCV, IoT)  
-- **NLP:** Document Intelligence, Prompt Engineering  
-- **Full-Stack AI Systems:** Python, Flask, Streamlit, Responsive UIs  
+- **Vision-Language Models (CLIP):** Medical image understanding, zero-shot learning  
+- **Computer Vision:** YOLO, OpenCV, DeepSORT, real-time & edge AI systems  
+- **Machine Learning:** Anomaly detection, classification, risk scoring  
+- **NLP & Document AI:** OCR, data masking, prompt engineering  
+- **Full-Stack AI:** Python, Flask, Streamlit, deployment-ready ML systems  
 
 ---
 
@@ -43,69 +44,105 @@
 **Languages & Frameworks:** Python, HTML, CSS, Bootstrap  
 **ML & Data:** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
 **CV & NLP:** OpenCV, YOLO, CLIP, BERT  
-**Dev Tools:** VSCode, Jupyter, Colab, Git, GitHub  
+**Dev Tools:** VS Code, Jupyter Notebook, Google Colab, Git, GitHub  
 **Deployment:** Streamlit, Docker, Firebase, Replit  
 
 ---
 
 ##  Projects
 
-### [AI-Based Traffic Signal Management with Emergency Vehicle Prioritisation](https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization)
-**Sep 2024 – May 2025** | YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
-- Smart signal control with real-time detection & tracking  
-- **Impact:** Approved by the Commissioner of Police, deployed for live traffic monitoring.
+### 🔹 AI-Based Traffic Signal Management with Emergency Vehicle Prioritization  
+ *Sep 2024 – May 2025*  
+**Tech:** YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
 
-### [Breast Cancer Classification (Histopathology Images)](https://github.com/nevil2006/medical-analysis-app)
-**Jun 2025 – Jul 2025** | CLIP, RN50, PyTorch, Prompt Engineering  
-- Zero-shot/few-shot lesion classification using CLIP + ResNet50  
-- Histopathological image interpretation via engineered prompts  
-- Evaluated with accuracy, F1-score, confusion matrix  
+- Built a real-time traffic signal control system with emergency vehicle prioritization  
+- Implemented vehicle detection and multi-object tracking under live traffic conditions  
+- **Impact:** Project approved by the Commissioner of Police, Coimbatore  
+- Deployed for real-time traffic monitoring  
 
-### [Eco-Friendly Product Showcase Website](https://github.com/nevil2006/eco-friendly-website-frontened)
-**May 2025 – Jun 2025** | HTML, CSS, Bootstrap  
-- Responsive website to promote sustainable products  
-- Semantic HTML, mobile-optimized, green UI  
-
-### [Masking Tool for Documents](https://github.com/nevil2006/masking-tool-in-image-)
-**Jul 2025 – Aug 2025** | Python, Flask, OpenCV, OCR  
-- Web app for masking sensitive info in ID document images  
-- Utilizes OCR, regex, and CV for privacy protection
-
-### [AI-Based Cyber Threat Detection using Isolation Forest](https://github.com/nevil2006/AI_Threat_Detection_Project)
-**Jul 2025 – Aug 2025** | Python, Machine Learning, Isolation Forest, NumPy, Scikit-learn  
--Web-based system for detecting abnormal system activity using AI-driven anomaly detection
--Utilizes Isolation Forest and risk scoring to identify suspicious behavior and potential zero-day cyber threats
+🔗 https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization
 
 ---
 
-## Internships
+### 🔹 Breast Cancer Classification (Histopathology Images)  
+ *Jun 2025 – Jul 2025*  
+**Tech:** CLIP (RN50), PyTorch, Prompt Engineering  
 
-| Organization        | Role                                  | Timeline              |
-|---------------------|----------------------------------------|-----------------------|
-| CMLI (AI Research)  | Vision-Language Intern *(Deep Work)*   | Jun–Jul 2025          |
-| hizen.ai            | ML Intern – Research Automation        | Dec 2024 – Feb 2025   |
+- Zero-shot and few-shot lesion classification using Vision-Language Models  
+- Interpreted histopathology images using engineered prompts  
+- Evaluated using accuracy, F1-score, and confusion matrix  
+
+🔗 https://github.com/nevil2006/medical-analysis-app
+
+---
+
+### 🔹 Eco-Friendly Product Showcase Website  
+ *May 2025 – Jun 2025*  
+**Tech:** HTML, CSS, Bootstrap  
+
+- Designed a responsive website to promote sustainable products  
+- Implemented semantic HTML and mobile-optimized layouts  
+
+🔗 https://github.com/nevil2006/eco-friendly-website-frontened
+
+---
+
+### 🔹 Masking Tool for Documents  
+ *Jul 2025 – Aug 2025*  
+**Tech:** Python, Flask, OpenCV, OCR  
+
+- Web app for masking sensitive information in document images  
+- Used OCR, regex, and computer vision for privacy protection  
+
+🔗 https://github.com/nevil2006/masking-tool-in-image-
+
+---
+
+### 🔹 AI-Based Cyber Threat Detection using Isolation Forest  
+ *Jul 2025 – Aug 2025*  
+**Tech:** Python, Scikit-learn, NumPy  
+
+- Web-based AI system for detecting abnormal system activity  
+- Implemented Isolation Forest with risk scoring  
+- Designed to identify suspicious behavior and potential zero-day threats  
+
+🔗 https://github.com/nevil2006/AI_Threata_Detection_Project
+
+---
+
+##  Internships
+
+| Organization | Role | Duration |
+|-------------|------|----------|
+| CMLI (AI Research) | Vision-Language Intern | Jun – Jul 2025 |
+| hizen.ai | ML Intern – Research Automation | Dec 2024 – Feb 2025 |
 
 ---
 
 ##  Recognition
 
 - 1st Prize – Project Expo (Smart Surveillance System)  
-- 1st Prize – Ideathon (Medical AI Solutions)  
-- one has been Project Approved by Commissioner of Police, Coimbatore
-- Two real wolrd projects have done  
-- Distinction – Grade 1 & 2 Theory in Music, Trinity College London  
-- 10+ college hackathons, 2+ national hackathons  
-
-
+-  1st Prize – Ideathon (Medical AI Solutions)  
+-  AI project approved by Commissioner of Police, Coimbatore  
+-  Successfully completed 2 real-world deployed AI projects  
+-  Distinction (Grade 1 & 2 Theory) – Trinity College London  
+-  Participated in 10+ college hackathons and 2+ national hackathons  
 
 ---
 
 ##  Connect With Me
 
-- [Portfolio](https://nevilj-portfolio.vercel.app/)  
-- [LinkedIn](https://www.linkedin.com/in/nevilj)  
-- [Email](mailto:nevilj22@gmail.com)  
-[![NEVIL.J github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/nevil2006)
+-  Portfolio: https://nevil-jportfolio.vercel.app/
+-  LinkedIn: https://www.linkedin.com/in/nevilj
+-  Email: nevilj22@gmail.com
+
+![NEVIL.J github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
+
 ---
 
-> “My mission is simple: Build intelligent systems that don’t just predict but **deliver value at the edge, in the clinic, and in the real world**.” 
+###  What I’m Looking For
+- ML / Computer Vision Internships  
+- Applied AI & Research Roles  
+- Solving real-world problems with measurable impact  
+
+> *“My mission is simple: build intelligent systems that don’t just predict, but deliver value in the real world.”*
