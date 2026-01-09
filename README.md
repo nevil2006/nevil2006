@@ -73,8 +73,8 @@
 
 ### [AI-Based Cyber Threat Detection using Isolation Forest](https://github.com/nevil2006/AI_Threat_Detection_Project)
 **Jul 2025 – Aug 2025** | Python, Machine Learning, Isolation Forest, NumPy, Scikit-learn  
---Web-based system for detecting abnormal system activity using AI-driven anomaly detection
---Utilizes Isolation Forest and risk scoring to identify suspicious behavior and potential zero-day cyber threats
+-Web-based system for detecting abnormal system activity using AI-driven anomaly detection
+-Utilizes Isolation Forest and risk scoring to identify suspicious behavior and potential zero-day cyber threats
 
 ---
 
