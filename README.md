@@ -25,7 +25,7 @@
 
 - **B.Tech in AI & Data Science** at KGiSL Institute of Technology (2023–2027)
 - Passionate about solving problems in **traffic**, **healthcare**, and **automation** through intelligent AI systems.
-- Full stack developer: ML model to interactive web app deployment.
+- Full-stack developer: ML model to interactive web app deployment. 
 
 ---
 
