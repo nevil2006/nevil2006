@@ -69,7 +69,12 @@
 ### [Masking Tool for Documents](https://github.com/nevil2006/masking-tool-in-image-)
 **Jul 2025 – Aug 2025** | Python, Flask, OpenCV, OCR  
 - Web app for masking sensitive info in ID document images  
-- Utilizes OCR, regex, and CV for privacy protection  
+- Utilizes OCR, regex, and CV for privacy protection
+
+### [AI-Based Cyber Threat Detection using Isolation Forest](https://github.com/nevil2006/AI_Threat_Detection_Project)
+**Jul 2025 – Aug 2025** | Python, Machine Learning, Isolation Forest, NumPy, Scikit-learn  
+--Web-based system for detecting abnormal system activity using AI-driven anomaly detection
+--Utilizes Isolation Forest and risk scoring to identify suspicious behavior and potential zero-day cyber threats
 
 ---
 
