@@ -41,12 +41,33 @@
 
 ##  Technologies & Tools
 
-**Languages & Frameworks:** Python, HTML, CSS, Bootstrap  
-**ML & Data:** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
-**CV & NLP:** OpenCV, YOLO, CLIP, BERT  
-**Dev Tools:** VS Code, Jupyter Notebook, Google Colab, Git, GitHub  
-**Deployment:** Streamlit, Docker, Firebase, Replit  
+ Skills & Technologies
+ Languages & Frameworks
+<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/> </p>
+ Machine Learning & Data Science
+<p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C"/> <img src="https://img.shields.io/badge/Seaborn-2E4C6D"/> </p>
+ Machine Learning Algorithms
 
+✔ Linear Regression
+✔ Polynomial Regression
+✔ Lasso Regression (L1 Regularization)
+✔ Ridge Regression (L2 Regularization)
+
+Used for regression problems, feature selection, 
+overfitting control, and model optimization.
+
+ Computer Vision & NLP
+<p> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?logoColor=black"/> <img src="https://img.shields.io/badge/CLIP-Multimodal-brightgreen"/> <img src="https://img.shields.io/badge/BERT-Transformers-yellow"/> </p>
+
+✔ Image classification & detection
+✔ Object detection (real-time)
+✔ Vision–language models
+✔ Text embeddings & NLP pipelines
+
+ Development Tools
+<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> </p>
+ Model Serving & Utilities
+<p> <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/readme_files/gradio.svg" width="70"/> <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="70"/> </p>
 ---
 
 ##  Projects
