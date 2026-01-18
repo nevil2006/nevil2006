@@ -60,7 +60,6 @@ overfitting control, and model optimization.
 <p> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?logoColor=black"/> <img src="https://img.shields.io/badge/CLIP-Multimodal-brightgreen"/> <img src="https://img.shields.io/badge/BERT-Transformers-yellow"/> </p>
 
 ![Image Classification](https://img.shields.io/badge/Image%20Classification-Vision-blue)
-![Object Detection](https://img.shields.io/badge/Object%20Detection-Real-time-red)
 ![Vision–Language Models](https://img.shields.io/badge/Vision%E2%80%93Language%20Models-NLP-yellow)
 ![Text Embeddings](https://img.shields.io/badge/Text%20Embeddings-NLP-green)
 
