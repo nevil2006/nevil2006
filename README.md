@@ -48,10 +48,10 @@
 <p> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C"/> <img src="https://img.shields.io/badge/Seaborn-2E4C6D"/> </p>
  Machine Learning Algorithms
 
-✔ Linear Regression
-✔ Polynomial Regression
-✔ Lasso Regression (L1 Regularization)
-✔ Ridge Regression (L2 Regularization)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-ML-blue)
+![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-ML-green)
+![Lasso Regression](https://img.shields.io/badge/Lasso%20Regression-L1%20Regularization-orange)
+![Ridge Regression](https://img.shields.io/badge/Ridge%20Regression-L2%20Regularization-purple)
 
 Used for regression problems, feature selection, 
 overfitting control, and model optimization.
@@ -59,10 +59,10 @@ overfitting control, and model optimization.
  Computer Vision & NLP
 <p> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?logoColor=black"/> <img src="https://img.shields.io/badge/CLIP-Multimodal-brightgreen"/> <img src="https://img.shields.io/badge/BERT-Transformers-yellow"/> </p>
 
-✔ Image classification & detection
-✔ Object detection (real-time)
-✔ Vision–language models
-✔ Text embeddings & NLP pipelines
+![Image Classification](https://img.shields.io/badge/Image%20Classification-Vision-blue)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-Real-time-red)
+![Vision–Language Models](https://img.shields.io/badge/Vision%E2%80%93Language%20Models-NLP-yellow)
+![Text Embeddings](https://img.shields.io/badge/Text%20Embeddings-NLP-green)
 
  Development Tools
 <p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> </p>
