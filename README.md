@@ -157,7 +157,18 @@ overfitting control, and model optimization.
 -  LinkedIn: https://www.linkedin.com/in/nevilj
 -  Email: nevilj22@gmail.com
 
-![NEVIL.J github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
+## 📊 GitHub Activity
+<p align="center">
+<p align="center"><i>Consistent learning & building in Machine Learning, Computer Vision, and NLP</i></p>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nevil2006&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
