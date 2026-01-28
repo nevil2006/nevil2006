@@ -67,7 +67,7 @@ overfitting control, and model optimization.
 <p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> </p>
  Model Serving & Utilities
 <p> <img src="https://raw.githubusercontent.com/gradio-app/gradio/main/readme_files/gradio.svg" width="70"/> <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" width="70"/> </p>
----
+
 
 ##  Projects
 
