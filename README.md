@@ -162,10 +162,6 @@ overfitting control, and model optimization.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nevil2006&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
 </p>
 
