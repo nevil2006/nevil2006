@@ -52,6 +52,8 @@
 ![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-ML-green)
 ![Lasso Regression](https://img.shields.io/badge/Lasso%20Regression-L1%20Regularization-orange)
 ![Ridge Regression](https://img.shields.io/badge/Ridge%20Regression-L2%20Regularization-purple)
+![KNN](https://img.shields.io/badge/KNN-Distance--Based%20Learning-blue)
+
 
 Used for regression problems, feature selection, 
 overfitting control, and model optimization.
