@@ -158,7 +158,7 @@ overfitting control, and model optimization.
 -  LinkedIn: https://www.linkedin.com/in/nevilj
 -  Email: nevilj22@gmail.com
 
-## 📊 GitHub Activity
+## GitHub Activity
 <p align="center">
 <p align="center"><i>Consistent learning & building in Machine Learning, Computer Vision, and NLP</i></p>
 </p>
