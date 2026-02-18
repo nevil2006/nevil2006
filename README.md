@@ -15,109 +15,123 @@
 
 ---
 
-##  Portfolio
- **Live Portfolio:** https://nevil-jportfolio.vercel.app/
+## Portfolio
+Live Portfolio: https://nevil-jportfolio.vercel.app/
 
 ---
 
 ## About Me
 
-- **B.Tech in AI & Data Science** at KGiSL Institute of Technology (2023–2027)
-- Focused on **Computer Vision, Vision-Language Models, and Applied ML**
-- Experience building **end-to-end AI systems** (model → backend → deployment)
-- Worked on **real-world AI solutions evaluated and approved for pilot deployment**
-- Strong foundation in **problem-solving and data structures**
+- B.Tech in AI & Data Science at KGiSL Institute of Technology (2023–2027)
+- Focused on Computer Vision, Vision-Language Models, and Applied ML
+- Experience building end-to-end AI systems (model → backend → deployment)
+- Worked on real-world AI solutions evaluated and approved for pilot deployment
+- Strong foundation in problem-solving and data structures
 
 ---
 
-##  Core Skills
+## Core Skills
 
-- **Vision-Language Models:** CLIP (zero-shot & few-shot learning)
-- **Computer Vision:** YOLO, OpenCV, DeepSORT, real-time systems
-- **Machine Learning:** Classification, anomaly detection, risk scoring
-- **NLP & Document AI:** OCR, information masking, prompt engineering
-- **Full-Stack AI:** Python, Flask, Streamlit, ML deployment
+- Vision-Language Models: CLIP (zero-shot & few-shot learning)
+- Computer Vision: YOLO, OpenCV, DeepSORT, real-time systems
+- Machine Learning: Classification, anomaly detection, risk scoring
+- NLP & Document AI: OCR, information masking, prompt engineering
+- Full-Stack AI: Python, Flask, Streamlit, ML deployment
 
 ---
 
-##  Technologies & Tools
+## Technologies & Tools
 
-**Languages & Frameworks**  
+Languages & Frameworks  
 Python, HTML, CSS, Bootstrap  
 
-**ML & Data Science**  
+ML & Data Science  
 TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
 
-**Computer Vision & NLP**  
+Computer Vision & NLP  
 OpenCV, YOLO, CLIP, BERT  
 
-**Development Tools**  
+Development Tools  
 VS Code, Jupyter, Google Colab, Git, GitHub  
 
 ---
 
-##  Projects
+## Projects
 
-###  AI-Based Traffic Signal Management with Emergency Vehicle Prioritization  
-*Sep 2024 – May 2025*  
-**Tech:** YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
+### AI-Based Traffic Signal Management with Emergency Vehicle Prioritization  
+Sep 2024 – May 2025  
+Tech: YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
 
 - Real-time traffic signal control with emergency vehicle prioritization  
 - Vehicle detection and multi-object tracking under live traffic conditions  
-- **Outcome:** Evaluated and approved for pilot deployment by the Commissioner of Police, Coimbatore  
+- Evaluated and approved for pilot deployment by the Commissioner of Police, Coimbatore  
 - Designed for real-time traffic monitoring  
 
 https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization
 
 ---
 
-###  Breast Cancer Classification (Histopathology Images)  
-*Jun 2025 – Jul 2025*  
-**Tech:** CLIP (RN50), PyTorch, Prompt Engineering  
+### AI-Powered Biometric Authentication System  
+Jan 2026 – Feb 2026  
+Tech: React, Flask, SQLAlchemy, OpenCV, Cosine Similarity, Twilio  
+
+- Designed a full-stack multi-factor authentication system combining OTP verification and AI-based face recognition  
+- Implemented liveness detection to prevent spoof attacks such as photo and replay-based authentication  
+- Generated face embeddings and performed cosine similarity matching for secure identity verification  
+- Built modular REST APIs using Flask with secure database integration  
+- Developed real-time webcam-based authentication interface using React  
+
+https://github.com/nevil2006/biometric-authentication-system
+
+---
+
+### Breast Cancer Classification (Histopathology Images)  
+Jun 2025 – Jul 2025  
+Tech: CLIP (RN50), PyTorch, Prompt Engineering  
 
 - Zero-shot and few-shot classification using Vision-Language Models  
 - Prompt engineering for medical image understanding  
 - Evaluated using accuracy, F1-score, and confusion matrix  
 
- https://github.com/nevil2006/medical-analysis-app
+https://github.com/nevil2006/medical-analysis-app
 
 ---
 
-###  Masking Tool for Documents  
-*Jul 2025 – Aug 2025*  
-**Tech:** Python, Flask, OpenCV, OCR  
+### Masking Tool for Documents  
+Jul 2025 – Aug 2025  
+Tech: Python, Flask, OpenCV, OCR  
 
 - Web application for masking sensitive information in document images  
 - Combined OCR, regex, and CV techniques for privacy protection  
 
- https://github.com/nevil2006/masking-tool-in-image-
+https://github.com/nevil2006/masking-tool-in-image-
 
 ---
 
-##  Problem Solving & DSA
+## Problem Solving & DSA
 
-- Active problem solver on **LeetCode** and **HackerRank**
-- Practicing **Data Structures, Algorithms, and logical problem-solving**
+- Active problem solver on LeetCode and HackerRank
+- Practicing Data Structures, Algorithms, and logical problem-solving
 - Focus areas: Arrays, Strings, Hashing, Recursion, Searching & Sorting
-- Strengthening fundamentals for **coding interviews and ML system design**
+- Strengthening fundamentals for coding interviews and ML system design
 
- **LeetCode:** https://leetcode.com/  
- **HackerRank:** https://www.hackerrank.com/
-
----
-
-##  Recognition & Achievements
-
--  **3× First Prize Winner** – Hackathons & Project Expos  
--  **Overall Winner** – Technical Competition  
--  **Best Team Award** – 24-hour National-Level Hackathon  
--  **Finalist** – National-Level Hackathon from 200 teams
--  AI project approved for **pilot deployment** by Commissioner of Police, Coimbatore  
--  Participated in **29+ hackathons, workshops & symposiums**
+LeetCode: https://leetcode.com/  
+HackerRank: https://www.hackerrank.com/
 
 ---
 
-##  Internships
+## Recognition & Achievements
+
+- 3× First Prize Winner – Hackathons & Project Expos  
+- Overall Winner – Technical Competition  
+- Best Team Award – 24-hour National-Level Hackathon  
+- Finalist – National-Level Hackathon from 200 teams  
+- AI project approved for pilot deployment by Commissioner of Police, Coimbatore  
+- Participated in 29+ hackathons, workshops & symposiums  
+
+---
+
+## Internships
 
 | Organization | Role | Duration |
 |-------------|------|----------|
@@ -126,15 +140,15 @@ https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emerg
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
--  Portfolio: https://nevil-jportfolio.vercel.app/
--  LinkedIn: https://www.linkedin.com/in/nevilj
--  Email: nevilj22@gmail.com
+Portfolio: https://nevil-jportfolio.vercel.app/  
+LinkedIn: https://www.linkedin.com/in/nevilj  
+Email: nevilj22@gmail.com  
 
 ---
 
-##  GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <i>Consistent learning & building in Machine Learning, Computer Vision, and AI systems</i>
@@ -146,9 +160,9 @@ https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emerg
 
 ---
 
-###  What I’m Looking For
+### What I’m Looking For
 - ML / Computer Vision Internships  
 - Applied AI & Research Roles  
 - Solving real-world problems with measurable impact  
 
-> *“Build AI systems that don’t just predict — but perform in the real world.”*
+Build AI systems that don’t just predict — but perform in the real world.
