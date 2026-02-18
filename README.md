@@ -81,8 +81,7 @@ Tech: React, Flask, SQLAlchemy, OpenCV, Cosine Similarity, Twilio
 - Built modular REST APIs using Flask with secure database integration  
 - Developed real-time webcam-based authentication interface using React  
 
-https://github.com/nevil2006/biometric-authentication-system
-
+https://github.com/nevil2006/biometric-authentication
 ---
 
 ### Breast Cancer Classification (Histopathology Images)  
