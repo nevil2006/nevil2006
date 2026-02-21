@@ -5,9 +5,17 @@
 ### Computer Vision and Machine Learning Engineer  
 ### Vision-Language Models | Real-World AI and Systems
 
-[Portfolio](https://nevil-jportfolio.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/nevilj) •
-[Email](mailto:nevilj22@gmail.com)
+<a href="https://nevil-jportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=vercel" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nevilj" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:nevilj22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+</a>
 
 </div>
 
@@ -52,9 +60,10 @@ OpenCV, YOLO, CLIP, BERT
 **Development Tools**  
 VS Code, Jupyter, Google Colab, Git, GitHub  
 
-**Embedded Systems and IoT**
-ESP32 Development,Sensor Interfacing (MPU6050),Embedded C Programming,I2C Communication,Real-Time Embedded Systems,State Machine Based System Design,Hardware–Software Integration  
-
+**Embedded Systems and IoT**  
+ESP32 Development, Sensor Interfacing (MPU6050), Embedded C Programming,  
+I2C Communication, Real-Time Embedded Systems,  
+State Machine Based System Design, Hardware–Software Integration  
 
 ---
 
@@ -161,6 +170,19 @@ HackerRank: https://www.hackerrank.com/
 |-------------|------|----------|
 | CMLI (AI Research) | Vision-Language Intern | Jun – Jul 2025 |
 | hizen.ai | ML Intern – Research Automation | Dec 2024 – Feb 2025 |
+
+---
+
+## GitHub Activity
+
+Consistent contribution across projects in machine learning, computer vision, embedded systems, and real-time applications.
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=ffffff&color=000000&line=3b82f6&point=000000&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
