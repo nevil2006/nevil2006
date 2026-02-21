@@ -52,6 +52,10 @@ OpenCV, YOLO, CLIP, BERT
 **Development Tools**  
 VS Code, Jupyter, Google Colab, Git, GitHub  
 
+**Embedded Systems and IoT**
+ESP32 Development,Sensor Interfacing (MPU6050),Embedded C Programming,I2C Communication,Real-Time Embedded Systems,State Machine Based System Design,Hardware–Software Integration  
+
+
 ---
 
 ## Projects
