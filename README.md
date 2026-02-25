@@ -168,9 +168,9 @@ HackerRank: https://www.hackerrank.com/
 
 | Organization | Role | Duration |
 |-------------|------|----------|
+|pinnacle labs| AI-Intern |JAN 2026- ONGOING| 
 | CMLI (AI Research) | Vision-Language Intern | Jun – Jul 2025 |
 | hizen.ai | ML Intern – Research Automation | Dec 2024 – Feb 2025 |
-|pinnacle labs| AI-INTERN|JAN 2026- ONGOING| 
 
 ---
 
