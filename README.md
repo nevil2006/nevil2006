@@ -1,204 +1,348 @@
 <div align="center">
 
-# J. Nevil
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=J.%20Nevil&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-### Computer Vision and Machine Learning Engineer  
-### Vision-Language Models | Real-World AI and Systems
+<h3>Computer Vision | Machine Learning | AI Systems</h3>
 
-<a href="https://nevil-jportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=vercel" />
+<p align="center">
+<a href="https://github.com/nevil2006">
+<img src="https://komarev.com/ghpvc/?username=nevil2006&label=Profile%20Views&style=for-the-badge"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nevilj" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+
+<a href="https://github.com/nevil2006?tab=followers">
+<img src="https://img.shields.io/github/followers/nevil2006?label=Followers&style=for-the-badge"/>
 </a>
-&nbsp;
+
+<a href="https://github.com/nevil2006">
+<img src="https://img.shields.io/github/stars/nevil2006?label=Stars&style=for-the-badge"/>
+</a>
+</p>
+
+<p align="center">
+
+<a href="https://nevil-jportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nevilj">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 <a href="mailto:nevilj22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
+
+</p>
 
 </div>
 
 ---
 
-## Portfolio
-Live Portfolio: https://nevil-jportfolio.vercel.app/
+# Profile
+
+• B.Tech – Artificial Intelligence and Data Science (2023–2027)  
+• KGiSL Institute of Technology  
+• Focus on Computer Vision and Machine Learning systems  
+• Experience developing real-time AI applications  
+• Interested in AI systems deployed in real-world environments  
 
 ---
 
-## About Me
+# Streak Statistics
 
-I am a B.Tech student in Artificial Intelligence and Data Science at KGiSL Institute of Technology (2023–2027), focused on building practical and reliable AI systems for real-world applications.
+<div align="center">
 
-My work spans computer vision, vision-language models, and applied machine learning, with experience in taking systems from concept to deployment. I have worked on real-world solutions that were evaluated and approved for pilot deployment and have also contributed to mentoring and developing academic engineering projects.
+<img src="https://streak-stats.demolab.com?user=nevil2006&theme=dracula&hide_border=true"/>
 
-I have a strong foundation in problem-solving, data structures, and system-level thinking.
-
----
-
-## Core Skills
-
-- Vision-Language Models: CLIP (zero-shot and few-shot learning)
-- Computer Vision: YOLO, OpenCV, DeepSORT, real-time systems
-- Machine Learning: Classification, anomaly detection, risk scoring
-- NLP and Document AI: OCR, information masking, prompt engineering
-- Full-Stack AI: Python, Flask, Streamlit, ML deployment
+</div>
 
 ---
+## Technology Stack
 
-## Technologies and Tools
+<br>
 
-**Languages and Frameworks**  
-Python, HTML, CSS, Bootstrap  
+<div align="center">
 
-**ML and Data Science**  
-TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
+<table>
 
-**Computer Vision and NLP**  
-OpenCV, YOLO, CLIP, BERT  
+<tr>
+<td align="center" width="33%"><b>Languages</b></td>
+<td align="center" width="33%"><b>Machine Learning & Data</b></td>
+<td align="center" width="34%"><b>Computer Vision</b></td>
+</tr>
 
-**Development Tools**  
-VS Code, Jupyter, Google Colab, Git, GitHub  
+<tr>
 
-**Embedded Systems and IoT**  
-ESP32 Development, Sensor Interfacing (MPU6050), Embedded C Programming,  
-I2C Communication, Real-Time Embedded Systems,  
-State Machine Based System Design, Hardware–Software Integration  
+<td align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DeepSORT-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ByteTrack-2196F3?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center"><b>Frameworks</b></td>
+<td align="center"><b>Tools</b></td>
+<td align="center"><b>Embedded & IoT</b></td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Ultralytics_YOLO-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Roboflow-651FFF?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MPU6050-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/I2C_Communication-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wokwi_Simulation-9C27B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded_Systems-607D8B?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
 ---
 
-## Projects
+# Featured Projects
 
-### AI-Based Traffic Signal Management with Emergency Vehicle Prioritization  
-Sep 2024 – May 2025  
-Tech: YOLOv11s, ESP32-CAM, OpenCV, DeepSORT  
+### Smart Traffic Management System
 
-- Developed a real-time traffic signal control system with emergency vehicle prioritization  
-- Implemented vehicle detection and multi-object tracking under live traffic conditions  
-- System evaluated and approved for pilot deployment by the Commissioner of Police, Coimbatore  
-- Designed for continuous real-time traffic monitoring  
+AI-based traffic monitoring system that detects vehicles in real time and prioritizes emergency vehicles for faster signal clearance.
 
-Repository:  
+Technology  
+YOLOv11 • OpenCV • ESP32-CAM • DeepSORT
+
+Repository  
 https://github.com/nevil2006/AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization
 
 ---
 
-### AI-Powered Biometric Authentication System  
-Jan 2026 – Feb 2026  
-Tech: React, Flask, SQLAlchemy, OpenCV, Cosine Similarity, Twilio  
+### AI Biometric Authentication System
 
-- Designed a full-stack multi-factor authentication system combining OTP verification and face recognition  
-- Implemented liveness detection to prevent spoofing attacks  
-- Generated face embeddings and performed cosine similarity matching  
-- Built secure REST APIs using Flask with database integration  
-- Developed a real-time webcam-based authentication interface  
+Multi-factor authentication system using face recognition and OTP verification with liveness detection to prevent spoofing.
 
-Repository:  
+Technology  
+React • Flask • OpenCV • SQLAlchemy
+
+Repository  
 https://github.com/nevil2006/biometric-authentication
 
 ---
 
-### Breast Cancer Classification (Histopathology Images)  
-Jun 2025 – Jul 2025  
-Tech: CLIP (RN50), PyTorch, Prompt Engineering  
+### Breast Cancer Classification using CLIP
 
-- Performed zero-shot and few-shot classification using vision-language models  
-- Designed prompts for medical image understanding  
-- Evaluated performance using accuracy, F1-score, and confusion matrix  
+Deep learning model using vision-language architecture for medical image classification with zero-shot learning.
 
-Repository:  
+Repository  
 https://github.com/nevil2006/medical-analysis-app
 
 ---
 
-### Masking Tool for Documents  
-Jul 2025 – Aug 2025  
-Tech: Python, Flask, OpenCV, OCR  
+### Document Masking Tool
 
-- Developed a web application to mask sensitive information in document images  
-- Combined OCR, regex, and computer vision techniques for privacy protection  
+Application that detects sensitive information in documents and automatically masks private data using OCR.
 
-Repository:  
+Repository  
 https://github.com/nevil2006/masking-tool-in-image-
 
 ---
 
-### Embedded IoT-Based Fall Detection System  
-Academic Mentorship and Development Support  
-Feb 2026  
-Tech: ESP32, MPU6050, Embedded C, I2C, LCD, Buzzer, Wokwi Simulation  
+# Articles
 
-- Mentored a three-member student team and contributed hands-on to the design and development of a real-time embedded fall detection system for healthcare safety  
-- Assisted in IoT system architecture, sensor interfacing, and embedded firmware development  
-- Implemented deterministic free-fall and impact detection logic using motion sensor thresholds  
-- Designed and guided a state-machine based fall confirmation mechanism to reduce false positives  
-- Integrated LCD for real-time system status display and buzzer for alert signaling  
-- Supported testing and validation using Wokwi simulation prior to hardware deployment  
-- Focused on reliable, offline, real-time embedded system operation  
+### Random Forest – The Algorithm That Made Me Look Deeper into ML
 
-Repository (overview):  
-https://github.com/nevil2006?tab=repositories
+An explanation of the Random Forest algorithm, ensemble learning concepts, and how decision trees combine to improve machine learning predictions.
+
+https://medium.com/@nevilj22/random-forest-the-algorithm-that-made-me-look-deeper-into-ml-5b0d0abc918d
 
 ---
 
-## Problem Solving and DSA
+### Why Recruiters Value AI, ML, and Computer Vision Experience
 
-- Active problem solver on LeetCode and HackerRank  
-- Practicing data structures, algorithms, and logical problem-solving  
-- Focus areas include arrays, strings, hashing, recursion, searching, and sorting  
-- Strengthening fundamentals for coding interviews and ML system design  
+Discusses why companies value AI skills and how students can build strong technical profiles.
 
-LeetCode: https://leetcode.com/  
-HackerRank: https://www.hackerrank.com/
+https://medium.com/@nevilj22/why-recruiters-value-ai-ml-and-computer-vision-experience-and-how-freshers-can-compete-8d1a0e7bab68
 
 ---
 
-## Recognition and Achievements
+### Why Engineers Feel Difficult for the Life
 
-- Three-time First Prize winner in hackathons and project expos  
-- Overall winner in technical competitions  
-- Best Team Award at a 24-hour national-level hackathon  
-- Finalist in a national-level hackathon with over 200 teams  
-- AI project approved for pilot deployment by the Commissioner of Police, Coimbatore  
-- Participated in more than 29 hackathons, workshops, and symposiums  
+A reflection on engineering challenges and how persistence and learning shape long-term success.
+
+https://medium.com/@nevilj22/why-engineers-feel-difficult-for-the-life-1bfeb7b4dd55
 
 ---
 
-## Internships
+# Experience
 
 | Organization | Role | Duration |
-|-------------|------|----------|
-|pinnacle labs| AI-Intern |JAN 2026- ONGOING| 
-| CMLI (AI Research) | Vision-Language Intern | Jun – Jul 2025 |
-| hizen.ai | ML Intern – Research Automation | Dec 2024 – Feb 2025 |
+|--------------|------|----------|
+| Pinnacle Labs | AI Intern | Jan 2026 – Present |
+| CMLI | Vision-Language Intern | Jun 2025 – Jul 2025 |
+| Hizen.ai | Machine Learning Intern | Dec 2024 – Feb 2025 |
 
 ---
 
-## GitHub Activity
+# Achievements
 
-Consistent contribution across projects in machine learning, computer vision, embedded systems, and real-time applications.
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&bg_color=ffffff&color=000000&line=3b82f6&point=000000&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+• First Prize winner in multiple hackathons  
+• Best Team Award – National hackathon  
+• Finalist – National hackathon with 200+ teams  
+• AI traffic system approved for pilot deployment by Commissioner of Police  
 
 ---
 
-## Connect With Me
+# Problem Solving
 
-Portfolio: https://nevil-jportfolio.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/nevilj  
-Email: nevilj22@gmail.com  
+Platforms
+
+• LeetCode  
+• HackerRank  
+
+Practice Areas
+
+• Arrays  
+• Strings  
+• Hash Maps  
+• Binary Search  
+• Sorting  
+• Recursion  
 
 ---
 
-### What I Am Looking For
+# LeetCode
 
-- Machine Learning and Computer Vision internships  
-- Applied AI and research roles  
-- Opportunities to solve real-world problems with measurable impact  
+<div align="center">
 
-Building systems that do not just predict, but perform reliably in real-world environments.
+<img src="https://leetcard.jacoblin.cool/nevilj"/>
+
+</div>
+
+---
+
+# Community
+
+Reddit  
+https://www.reddit.com/
+
+Topics
+
+• Artificial Intelligence  
+• Machine Learning  
+• Computer Vision  
+• Programming  
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nevil2006&theme=dracula&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Connect
+
+Portfolio  
+https://nevil-jportfolio.vercel.app/
+
+LinkedIn  
+https://www.linkedin.com/in/nevilj
+
+Medium  
+https://medium.com/@nevilj22
+
+Email  
+nevilj22@gmail.com
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+</div>
