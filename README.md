@@ -258,7 +258,7 @@ https://medium.com/@nevilj22/why-engineers-feel-difficult-for-the-life-1bfeb7b4d
 
 | Organization | Role | Duration |
 |--------------|------|----------|
-| Pinnacle Labs | AI Intern | Jan 2026 – Present |
+| Pinnacle Labs | AI Intern | Jan 2026 – Feb 20226 |
 | CMLI | Vision-Language Intern | Jun 2025 – Jul 2025 |
 | Hizen.ai | Machine Learning Intern | Dec 2024 – Feb 2025 |
 
