@@ -57,9 +57,8 @@
 </div>
 
 ---
-## Technology Stack
 
-<br>
+# Technology Stack
 
 <div align="center">
 
@@ -75,51 +74,35 @@
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+Python  
+JavaScript  
+SQL  
+Embedded C  
+HTML  
+CSS  
+Bootstrap  
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+TensorFlow  
+PyTorch  
+Scikit-learn  
+NumPy  
+Pandas  
+Matplotlib  
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DeepSORT-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ByteTrack-2196F3?style=for-the-badge"/>
+OpenCV  
+YOLO  
+CLIP  
+BERT  
+DeepSORT  
+ByteTrack  
 
 </td>
 
@@ -135,43 +118,31 @@
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-
-<img src="https://img.shields.io/badge/Ultralytics_YOLO-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Roboflow-651FFF?style=for-the-badge"/>
+Flask  
+Streamlit  
+Ultralytics YOLO  
+Roboflow  
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter"/>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+Git  
+GitHub  
+Docker  
+VS Code  
+Jupyter  
+Google Colab  
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MPU6050-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/I2C_Communication-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wokwi_Simulation-9C27B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embedded_Systems-607D8B?style=for-the-badge"/>
+ESP32  
+MPU6050  
+I2C Communication  
+Wokwi Simulation  
+Embedded Systems  
 
 </td>
 
@@ -181,7 +152,6 @@
 
 </div>
 
-<br>
 ---
 
 # Featured Projects
@@ -232,23 +202,13 @@ https://github.com/nevil2006/masking-tool-in-image-
 
 ### Random Forest – The Algorithm That Made Me Look Deeper into ML
 
-An explanation of the Random Forest algorithm, ensemble learning concepts, and how decision trees combine to improve machine learning predictions.
-
 https://medium.com/@nevilj22/random-forest-the-algorithm-that-made-me-look-deeper-into-ml-5b0d0abc918d
-
----
 
 ### Why Recruiters Value AI, ML, and Computer Vision Experience
 
-Discusses why companies value AI skills and how students can build strong technical profiles.
-
 https://medium.com/@nevilj22/why-recruiters-value-ai-ml-and-computer-vision-experience-and-how-freshers-can-compete-8d1a0e7bab68
 
----
-
 ### Why Engineers Feel Difficult for the Life
-
-A reflection on engineering challenges and how persistence and learning shape long-term success.
 
 https://medium.com/@nevilj22/why-engineers-feel-difficult-for-the-life-1bfeb7b4dd55
 
@@ -258,7 +218,8 @@ https://medium.com/@nevilj22/why-engineers-feel-difficult-for-the-life-1bfeb7b4d
 
 | Organization | Role | Duration |
 |--------------|------|----------|
-| Pinnacle Labs | AI Intern | Jan 2026 – Feb 20226 |
+| Lehigh University × KGiSL Institute of Technology | BIOE 396/496 Study Abroad Program | Mar 2026 |
+| Pinnacle Labs | AI Intern | Jan 2026 – Feb 2026 |
 | CMLI | Vision-Language Intern | Jun 2025 – Jul 2025 |
 | Hizen.ai | Machine Learning Intern | Dec 2024 – Feb 2025 |
 
@@ -298,20 +259,6 @@ Practice Areas
 <img src="https://leetcard.jacoblin.cool/nevilj"/>
 
 </div>
-
----
-
-# Community
-
-Reddit  
-https://www.reddit.com/
-
-Topics
-
-• Artificial Intelligence  
-• Machine Learning  
-• Computer Vision  
-• Programming  
 
 ---
 
