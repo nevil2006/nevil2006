@@ -52,8 +52,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nevil2006&theme=dracula&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=nevil2006&theme=dracula&hide_border=true&v=1"/>
 </div>
 
 ---
