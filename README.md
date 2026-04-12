@@ -218,7 +218,6 @@ https://medium.com/@nevilj22/why-engineers-feel-difficult-for-the-life-1bfeb7b4d
 | Organization | Role | Duration |
 |--------------|------|----------|
 | Lehigh University × KGiSL Institute of Technology | BIOE 396/496 Study Abroad Program | Mar 2026 |
-| Pinnacle Labs | AI Intern | Jan 2026 – Feb 2026 |
 | CMLI | Vision-Language Intern | Jun 2025 – Jul 2025 |
 
 ---
