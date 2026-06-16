@@ -196,7 +196,17 @@ Repository
 https://github.com/nevil2006/masking-tool-in-image-
 
 ---
+####  Embedded IoT-Based Fall Detection System for Healthcare Safety
 
+Mentored a three-member student team at KGiSL Institute of Technology in developing a real-time IoT-based fall detection system using ESP32 and MPU6050, featuring continuous motion monitoring, free-fall and impact detection, state-machine based decision logic, buzzer alerts, and LCD status display for healthcare-focused embedded applications.
+
+https://github.com/nevil2006?tab=repositories&q=fa&type=&language=&sort=
+
+### Yuno AI Agent Orchestration Platform
+
+Developed Yuno, an AI agent orchestration platform that enables intelligent multi-agent coordination, workflow automation, and real-time task execution using scalable AI-driven systems.
+
+https://github.com/nevil2006/yuno-agent-platform
 # Articles
 
 ### Random Forest – The Algorithm That Made Me Look Deeper into ML
