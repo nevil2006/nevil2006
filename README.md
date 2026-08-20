@@ -55,6 +55,8 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=nevil2006&theme=dracula&hide_border=true"/>
 
 </div>
+
+----
 # Technology Stack
 
 <div align="center">
